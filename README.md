@@ -1,2 +1,2 @@
-# projeto-chale-hotel
+# Projeto Chale Hotel
  Curso WebCompleto2022
